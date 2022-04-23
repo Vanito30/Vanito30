@@ -15,15 +15,35 @@ buscando novas aventuras nesse mundo de dados,cada dia  aprendendo mais  novas f
 * [Blog](http://sigmoidal.ai)
 * [LinkedIn](https://www.linkedin.com/in/jose-vanito-a7764479/)
 * [Medium](https://medium.com/@vanito30)
+* <html>
+    <head>
+        <title>Analise de Dados</title>
+        <link rel="stylesheet" href="css/style.css"/>
+        <meta name ='viewport' content="width=device-width,initial-scale=1.0,maximum-scale=1.0">
+    </head>
+    <img src="C:\Users\akira\Desktop\site\foto\image.dados.jpg"height=50% width="100%"></html>>
+    <h1 style="color: red;"align='center'> JOSE VANITO</h1>
+    
+    </head>
+    <body style="background-color: black;">
+        <h2 style="color: red;"align="center">Sobre</h2>
+        <p style="color:azure;"align="center"> Estudante de engenharia eletrica e Analise de Dados
+        </p>
+        <br></br>
+        <h2 style="color: azure;"align="center">Contato</h2>
+        <p style="color: azure;"align="center">  *Likedin
+        <a href="https://https://bityli.com/xXCUlR/">https://bityli.com/xXCUlR/</a> </a>
+        </p>
+        <p style="color: azure;"align="center">  *Github
+            <a href="https://github.com/josevanito/">https://github.com/josevanito</a>
+            <p style="color: azure;"align="center">  *Medio
+                <a href="https://medium.com/@vanito30/">https://medium.com/@vanito30</a>
+            </p>
 
 
-## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
-
-* **projeto sobre lisboa:** https://colab.research.google.com/drive/1antvk_ltTKgJqQB3fstNugxqFANVUYi6
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+        <footer>
+            <P style="color: azure;">Feito por:JOSE VANITO</P>
+            <p style="color:azure;">Email:<a style="color:white;" href="=mailto:vanito30@gmail.com">vanito30@gmail</a>/p>
+        </footer>
+    </body>
+</html>
